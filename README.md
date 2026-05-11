@@ -357,4 +357,5 @@ If you found this project helpful, please give it a ⭐ on GitHub!
 
 ---
 
-> “Transforming raw C++ logic into a complete desktop application with Qt.” 💪
+> “Transforming raw C++ logic into a complete desktop application with Qt.” 
+ 
